@@ -1,4 +1,28 @@
-# UIElements![1](https://user-images.githubusercontent.com/89539041/146418987-ab6a83e2-efb9-4289-9b9c-7641534d081a.png)
+# UIElements
+**** Know your Zodiac ****
+This App Show the Zodiac Signs of User accroding to their Personal Detail and Birth Date.
+*It's Not Static.(Zodiac Signs every time change according to personal Detail)
+The UI Elements Used in this App are :
+UILabel
+UITextField
+UITextView
+UIButton
+UIDatePicker
+UIPageControl
+UISegmentedControl
+UISlider
+UIStepper
+UISwitch
+UIActivityIndicatorView
+UIImageView
+UIProgressView
+UIPickerView
+UIToolbar
+UITabBar
+UIImagePickerController
+
+**** Screensorts of User Interfaces(Screens) ****
+![1](https://user-images.githubusercontent.com/89539041/146418987-ab6a83e2-efb9-4289-9b9c-7641534d081a.png)
 ![2](https://user-images.githubusercontent.com/89539041/146419003-1fbe4dc6-14de-482a-b905-550ab8e4861b.png)
 ![3](https://user-images.githubusercontent.com/89539041/146419013-4108aa50-8171-45a5-a648-26e905e9fdab.png)
 ![4](https://user-images.githubusercontent.com/89539041/146419019-b9ee9775-c032-4f60-be2c-b57613ea6fc5.png)
